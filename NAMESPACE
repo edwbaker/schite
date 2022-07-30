@@ -2,6 +2,7 @@
 
 export(citationTabUI)
 export(citationUI)
+export(cite_bibentry)
 export(cite_r_package)
 importFrom(htmltools,HTML)
 importFrom(htmltools,h3)
