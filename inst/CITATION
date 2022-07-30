@@ -3,7 +3,7 @@ citHeader("To cite schite in publications use:")
 citEntry(
   entry    = "Manual",
   title    = "schite: Citations for shiny",
-  author   = "Baker, E.",
+  author   = person(given="Ed", family="Baker"),
   year     = "2022",
   url      = "https://github.com/edwbaker/schite",
   textVersion = paste(
