@@ -1,4 +1,7 @@
 url: https://edwbaker.github.io/schite/
 template:
   bootstrap: 5
-
+home:
+  links:
+  - text: Source on GitHub
+    href: https://github.com/edwbaker/schite
